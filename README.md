@@ -7,10 +7,10 @@ This project was developed as part of Udacity React Nanodegree. The purpose of t
 To run the application you need Node.js installed in your device otherwise you can download it from their official website. It was built from create-react-app starter.
 You can clone the application in the desired directory and after that navigating to the deisred directory use the following command.
 
-'''
+```
 npm install
 npm start
-''''
+```
 
 A browser window will be displayed conatining the local verison of the app.
 
